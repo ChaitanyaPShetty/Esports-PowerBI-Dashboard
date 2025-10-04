@@ -8,14 +8,22 @@ It visualizes trends in prize earnings, player participation, and tournament gro
 Source: Historical Esports Data
 Rows: 10,239 | Columns: 5
 Fields:
+
 Date – Tournament or event date
+
 Game – Name of the esports title
+
 Earnings – Total prize pool (USD)
+
 Players – Number of participants
+
 Tournaments – Count of tournaments
 
 # ⚙️ Tools & Technologies
 Power BI Desktop – Data modeling, DAX calculations, and dashboard creation
+
 Power Query – Data cleaning and transformation
+
 DAX (Quick Measures) – Custom KPIs (YoY %, Averages, Ratios)
+
 Excel / CSV – Data source format
